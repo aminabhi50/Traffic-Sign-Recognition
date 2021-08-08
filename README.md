@@ -5,7 +5,9 @@
 
 
 ## Custom CNN Architecture
+<center>
 ![Architecture of Custom CNN](/images/CNNArchitecture.png)
+ </center>
 
 ## System Flow
 ![Flow Diagram](/images/FD.png)
