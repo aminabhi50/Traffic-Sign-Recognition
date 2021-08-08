@@ -42,7 +42,7 @@ RM_Project_GTSRB.ipynb / RM_Project_GTSRB.py :
   
 images: This folder contains images of flow diagram, the architecture of CNN model, and sample images of dataset.
 
-results: This folder contains images of experiment results that include accuracy and loss curves, classification report, and confusion matrix.
+results: This folder contains images of experiment results that include accuracy and loss curves, classification reports, and confusion matrix.
 
 trainData_32.npy, trainLabels_32.npy: Numpy files that contain resized training image data and their class labels
 testData_32.npy,  testLabels_32.npy: Numpy files that contain resized testing image data and their class labels
@@ -56,7 +56,7 @@ The dataset used can be downloaded here - https://www.kaggle.com/meowmeowmeowmeo
 This dataset is an image classification dataset, which consists of 51839 images belonging to 43 different traffic signs with unbalanced class frequencies, having varying light conditions and rich backgrounds, and image sizes vary between 15x15 to 250x250 pixels:
 
 **Training Data :** 39209 images <br/>
-**Testing Data  :** 12630 images
+**Testing Data:** 12630 images
 
 ![Sample images of GSTRB Dataset](/images/GSTRB.png)
 
@@ -67,10 +67,10 @@ There are mainly three ways to run the project:
 * First, download the dataset from the given link and upload it on the drive. After that, download the RM_Project_PreprocessDataset_GTSRB.ipynb and RM_Project_GTSRB.ipynb, then first run RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate model.
 
 **Method 2: Using Local Machine having decent GPU**
-* First, download the dataset from the given link and store it at appropriate location in your local machine. After that, download all necessary dependencies mentioned above and .ipynb or .py files. Then, change all the paths in code according to your local machine and run the RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate model.
+* First, download the dataset from the given link and store it at the appropriate location in your local machine. After that, download all necessary dependencies mentioned above and .ipynb or .py files. Then, change all the paths in code according to your local machine and run the RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate the model.
 
 **Method 3: Using Numpy files**
-* Download the Numpy files that contain resized training and testing data, and their class labels information. After downloading it, run only RM_Project_GTSRB.ipynb to train and evaluate model, using Google Colab environment or local machine having decent GPU with necessary dependencies.
+* Download the Numpy files that contain resized training and testing data, and their class labels information. After downloading it, run only RM_Project_GTSRB.ipynb to train and evaluate the model, using Google Colab environment or local machine having decent GPU with necessary dependencies.
 
 ### Results
 All images of experimental results that include accuracy and loss curves, classification report, and confusion matrix, are available in the [Results](/results/) folder. For more description of results images, please visit [Description of Results Images](/results/results_info.md).
@@ -80,8 +80,10 @@ Abhi Amin <br/>
 To contact send an email to (aminabhi50@gmail.com)
 
 ## Version History
+* 1.0 - Final Release
 
 ## License
+This project is open source.
 
 ## Project Status
-The project is completed, but one can modify it by adding image preprocessing technique such as data augmentation, and more layers to custom CNN model, to achieve better performance.
+The project is completed, but one can modify it by adding image preprocessing techniques such as data augmentation, and more layers to custom CNN model, to achieve better performance.
