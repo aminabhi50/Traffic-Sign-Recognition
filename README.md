@@ -1,5 +1,5 @@
 # Traffic-Sign-Recognition
- Traffic sign recognition is one of the most popular topics of computer vision and deep learning in recent years. I choose this topic for my Research Methodology subject. The deep learning based method, custom convolutional neural network used for traffic sign recognition, which classifies and recognizes 43 different traffic signs.
+Traffic sign recognition is the most popular topic of computer vision and deep learning in recent years. I choose this topic for my Research Methodology subject. The deep learning-based method, a custom convolutional neural network used for traffic sign recognition, classifies and recognizes 43 different traffic signs.
 
 ## Description
 
@@ -8,7 +8,7 @@
 ![Architecture of Custom CNN](/images/CNNArchitecture.png)
 
 ## System Flow
-![Flow Diagram](/images/FD.png)
+![Flow Diagram](/images/FlowDiagram.png)
 
 ## Getting Started
 
