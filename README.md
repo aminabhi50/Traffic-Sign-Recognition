@@ -44,9 +44,6 @@ images: This folder contains images of flow diagram, the architecture of CNN mod
 
 results: This folder contains images of experiment results that include accuracy and loss curves, classification reports, and confusion matrix.
 
-trainData_32.npy, trainLabels_32.npy: Numpy files that contain resized training image data and their class labels
-testData_32.npy,  testLabels_32.npy: Numpy files that contain resized testing image data and their class labels
-
 ```
 
 ### Dataset
@@ -68,9 +65,6 @@ There are mainly three ways to run the project:
 
 **Method 2: Using Local Machine having decent GPU**
 * First, download the dataset from the given link and store it at the appropriate location in your local machine. After that, download all necessary dependencies mentioned above and .ipynb or .py files. Then, change all the paths in code according to your local machine and run the RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate the model.
-
-**Method 3: Using Numpy files**
-* Download the Numpy files that contain resized training and testing data, and their class labels information. After downloading it, run only RM_Project_GTSRB.ipynb to train and evaluate the model, using Google Colab environment or local machine having decent GPU with necessary dependencies.
 
 ### Results
 All images of experimental results that include accuracy and loss curves, classification report, and confusion matrix, are available in the [Results](/results/) folder. For more description of results images, please visit [Description of Results Images](/results/results_info.md).
