@@ -1,5 +1,5 @@
 # Traffic-Sign-Recognition (v1.0)
-![social](https://img.shields.io/github/followers/aminabhi50?style=social)![languages](https://img.shields.io/github/languages/count/aminabhi50/Traffic-Sign-Recognition)
+![GitHub followers](https://img.shields.io/github/followers/aminabhi50?style=social)![languages](https://img.shields.io/github/languages/count/aminabhi50/Traffic-Sign-Recognition)
 
 Traffic sign recognition is the most popular topic of computer vision and deep learning in recent years. I choose this topic for my Research Methodology subject. The deep learning-based method, a custom convolutional neural network used for traffic sign recognition, classifies and recognizes 43 different traffic signs.
 
