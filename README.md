@@ -43,7 +43,6 @@ RM_Project_GTSRB.ipynb / RM_Project_GTSRB.py :
 images: This folder contains images of flow diagram, the architecture of CNN model, and sample images of dataset.
 
 results: This folder contains images of experiment results that include accuracy and loss curves, classification reports, and confusion matrix.
-
 ```
 
 ### Dataset
