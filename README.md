@@ -5,10 +5,10 @@
 
 
 ## Custom CNN Architecture
-![Architecture of Custom CNN](/img/architecture)
+![Architecture of Custom CNN](/img/CNNArchitecture.png)
 
 ## System Flow
-![Flow Diagram](/img/flowdiagram)
+![Flow Diagram](/img/FD.png)
 
 ## Getting Started
 
@@ -32,6 +32,6 @@ This dataset is an image classification dataset, which consists of 51839 images 
 **Training Data :** 39209 images <br/>
 **Testing Data  :** 12630 images
 
-![Sample images of GSTRB Dataset](/img/GSTRB)
+![Sample images of GSTRB Dataset](/img/GSTRB.png)
 
 ### Executing Program
