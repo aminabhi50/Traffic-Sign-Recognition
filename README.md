@@ -5,9 +5,7 @@
 
 
 ## Custom CNN Architecture
-<center>
 ![Architecture of Custom CNN](/images/CNNArchitecture.png)
- </center>
 
 ## System Flow
 ![Flow Diagram](/images/FD.png)
@@ -26,7 +24,7 @@
 ### Manifest
 
 ### Dataset
-#### German Traffic Sign Recognition Benchmark (GSTRB)
+#### German Traffic Sign Recognition Benchmark (GTSRB)
 The dataset used can be downloaded here - Click to Download
 
 This dataset is an image classification dataset, which consists of 51839 images belonging to 43 different traffic signs with unbalanced class frequencies, having varying light conditions and rich backgrounds, and image sizes vary between 15x15 to 250x250 pixels:
