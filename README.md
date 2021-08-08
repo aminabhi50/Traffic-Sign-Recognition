@@ -75,6 +75,13 @@ There are mainly three ways to run the project:
 ### Results
 All images of experimental results that include accuracy and loss curves, classification report, and confusion matrix, are available in the [Results](/results/) folder. For more description of results images, please visit [Description of Results Images](/results/results_info.md).
  
-### Authors
+## Authors
 Abhi Amin <br/>
 To contact send an email to (aminabhi50@gmail.com)
+
+## Version History
+
+## License
+
+## Project Status
+The project is completed, but one can modify it by adding image preprocessing technique such as data augmentation, and more layers to custom CNN model, to achieve better performance.
