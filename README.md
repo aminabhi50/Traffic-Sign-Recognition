@@ -56,7 +56,7 @@ The dataset used can be downloaded here - https://www.kaggle.com/meowmeowmeowmeo
 This dataset is an image classification dataset, which consists of 51839 images belonging to 43 different traffic signs with unbalanced class frequencies, having varying light conditions and rich backgrounds, and image sizes vary between 15x15 to 250x250 pixels:
 
 **Training Data :** 39209 images <br/>
-**Testing Data:** 12630 images
+**Testing Data :** 12630 images
 
 ![Sample images of GSTRB Dataset](/images/GSTRB.png)
 
