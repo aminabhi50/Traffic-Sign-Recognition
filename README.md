@@ -57,7 +57,7 @@ This dataset is an image classification dataset, which consists of 51839 images 
 ![Sample images of GSTRB Dataset](/images/GSTRB.png)
 
 ### Executing Program
-There are mainly three ways to run the project:
+There are mainly two ways to run the project:
 
 **Method 1: Using Google Colab Environment**
 * First, download the dataset from the given link and upload it on the drive. After that, download the RM_Project_PreprocessDataset_GTSRB.ipynb and RM_Project_GTSRB.ipynb, then first run RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate model.
