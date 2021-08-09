@@ -49,7 +49,7 @@ results: This folder contains images of experiment results that include accuracy
 #### German Traffic Sign Recognition Benchmark (GTSRB)
 The dataset used can be downloaded here - https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-This dataset is an image classification dataset, which consists of 51839 images belonging to 43 different traffic signs with unbalanced class frequencies, having varying light conditions and rich backgrounds, and image sizes vary between 15x15 to 250x250 pixels:
+This dataset is an image classification dataset, which consists of 51839 images belonging to 43 different traffic signs with unbalanced class frequencies, having varying light conditions and rich backgrounds, and image sizes vary between 15x15 to 250x250 pixels. Sample images of dataset is shown in below figure:
 
 **Training Data :** 39209 images <br/>
 **Testing Data :** 12630 images
@@ -60,7 +60,7 @@ This dataset is an image classification dataset, which consists of 51839 images 
 There are mainly two ways to run the project:
 
 **Method 1: Using Google Colab Environment**
-* First, download the dataset from the given link and upload it on the drive. After that, download the RM_Project_PreprocessDataset_GTSRB.ipynb and RM_Project_GTSRB.ipynb, then first run RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate model.
+* First, download the dataset from the given link and upload it on the drive. After that, download the RM_Project_PreprocessDataset_GTSRB.ipynb and RM_Project_GTSRB.ipynb, then first run RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate the model.
 
 **Method 2: Using Local Machine having decent GPU**
 * First, download the dataset from the given link and store it at the appropriate location in your local machine. After that, download all necessary dependencies mentioned above and .ipynb or .py files. Then, change all the paths in code according to your local machine and run the RM_Project_PreprocessDataset_GTSRB.ipynb to resize the dataset, after that run RM_Project_GTSRB.ipynb to train and evaluate the model.
